@@ -1,0 +1,39 @@
+.servicios {
+  color: rgb(31, 173, 230);
+}
+
+.monedas h1 {
+  font-size: 2.5rem;
+}
+
+.monedas {
+  h2 {
+    font-size: 1.8rem;
+    text-align: center;
+  }
+
+  .monedas__lista {
+    font-size: $font-size-primario;
+    font-weight: 500;
+    color: $color-primario;
+  }
+
+  .monedas__banderas {
+    margin-top: 0.5vh;
+    max-width: 8vh;
+  }
+}
+
+.lista .lista__servicios {
+  margin-top: 7vh;
+  color: $color-primario;
+  text-align: center;
+
+  span {
+    font-size: 3rem;
+  }
+}
+
+.servicios {
+  background-color: #2c2b2b;
+}

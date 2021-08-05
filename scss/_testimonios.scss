@@ -1,0 +1,50 @@
+#Testimonios {
+  background-image: url(imagen/cliente7.jpg);
+  background-size: cover;
+}
+
+.testi {
+  color: rgb(176, 159, 216);
+}
+
+.testi h1 {
+  font-size: 2.5rem;
+}
+
+.carousel {
+  min-height: 240px;
+  padding: 40px;
+  border-radius: 2px;
+  text-align: center;
+
+  p {
+    font-size: 2rem;
+    font-weight: 350;
+    color: $color-primario;
+  }
+}
+
+.estrellas span {
+  color: #ffb944;
+  font-size: 2rem;
+}
+
+.testimonios-usuario {
+  max-width: 100px;
+  margin: 0 auto;
+  text-align: left;
+
+  h6 {
+    margin-bottom: 0px;
+  }
+
+  span {
+    font-size: 1rem;
+  }
+
+  img {
+    border-radius: 15%;
+    max-width: 100px;
+    text-align: center;
+  }
+}

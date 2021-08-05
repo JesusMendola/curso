@@ -1,0 +1,12 @@
+{
+  "name": "curso",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "MendolaSass": "sass --watch scss/style.scss css/global.css"
+  },
+  "author": "mendola",
+  "license": "ISC"
+}
